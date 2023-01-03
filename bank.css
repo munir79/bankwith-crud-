@@ -1,0 +1,47 @@
+#div1{
+    background-color: aqua;
+    height: 400px;
+    margin: 50px;
+    padding: 120px;
+    border: 12px dotted orangered;
+    border-radius: 17px;
+   
+ 
+}
+#div2{
+    background-color: rgb(255, 3, 238);
+    margin: 50px;
+    height: 300px;
+    border: 10px dotted wheat;
+    border-radius: 27px;
+    box-shadow: darkolivegreen;
+   
+}
+#head{
+    color: black;
+    text-align: center;
+}
+#head1{
+    text-align: center;
+}
+#userInput{
+    padding: 7px;
+    margin: 7px;
+}
+#userPassword{
+    margin: 7px;
+    padding: 7px;
+}
+#submit{
+  color: blue;
+    border: 2px solid yellow;
+    border-radius: 7px;
+    background-color: tomato;
+    padding: 8px;
+    margin: 10px;
+   
+}
+ 
+ 
+ 
+ 
